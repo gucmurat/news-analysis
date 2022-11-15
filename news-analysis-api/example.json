@@ -1,0 +1,50 @@
+[
+    {
+        "tagText": "POSITIVE",
+        "newsHeading": "Başlık1",
+        "newsInfo": {
+            "summary": "Özet1",
+            "newsTextAndEnts": {
+				"text": "The U.S. economy added many more jobs than expected last month, and there was an appetite for workers particularly in the service sector, which has been grappling with labor shortages.\n\nThe leisure and hospitality sector saw the most jobs growth, with 96,000 payrolls added in July, led by strong expansion in food and drinking places, according to the U.S. Bureau of Labor Statistics.\n\nRestaurants and airlines have been scrambling to repopulate their ranks ever since the economy started to reopen. Covid-triggered lockdowns in 2020 had led to massive layoffs and furloughs for cooks and waitstaff and other service staff.\n\nMeanwhile, employment in professional and business services continued to grow, with an increase of 89,000 in July. Within the industry, job growth was widespread in management of companies and enterprises, architectural and engineering services as well as scientific research and development.",
+				"ents": [{"start": 4, "end": 8, "label": "GPE"}, {"start": 52, "end": 62, "label": "DATE"}, {"start": 252, "end": 258, "label": "CARDINAL"}, {"start": 277, "end": 281, "label": "DATE"}, {"start": 349, "end": 384, "label": "ORG"}, {"start": 530, "end": 534, "label": "DATE"}, {"start": 725, "end": 731, "label": "CARDINAL"}, {"start": 735, "end": 739, "label": "DATE"}],
+			},
+            "newsLink": "Haber Linki1"
+        }
+    },
+    {
+        "tagText": "NEGATIVE",
+        "newsHeading": "Başlık2",
+        "newsInfo": {
+            "summary": "Özet2",
+            "newsTextAndEnts": {
+				"text": "The U.S. economy added many more jobs than expected last month, and there was an appetite for workers particularly in the service sector, which has been grappling with labor shortages.\n\nThe leisure and hospitality sector saw the most jobs growth, with 96,000 payrolls added in July, led by strong expansion in food and drinking places, according to the U.S. Bureau of Labor Statistics.\n\nRestaurants and airlines have been scrambling to repopulate their ranks ever since the economy started to reopen. Covid-triggered lockdowns in 2020 had led to massive layoffs and furloughs for cooks and waitstaff and other service staff.\n\nMeanwhile, employment in professional and business services continued to grow, with an increase of 89,000 in July. Within the industry, job growth was widespread in management of companies and enterprises, architectural and engineering services as well as scientific research and development.",
+				"ents": [{"start": 4, "end": 8, "label": "GPE"}, {"start": 52, "end": 62, "label": "DATE"}, {"start": 252, "end": 258, "label": "CARDINAL"}, {"start": 277, "end": 281, "label": "DATE"}, {"start": 349, "end": 384, "label": "ORG"}, {"start": 530, "end": 534, "label": "DATE"}, {"start": 725, "end": 731, "label": "CARDINAL"}, {"start": 735, "end": 739, "label": "DATE"}],
+			},
+            "newsLink": "Haber Linki2"
+        }
+    },
+    {
+        "tagText": "NEUTRAL",
+        "newsHeading": "Başlık3",
+        "newsInfo": {
+            "summary": "Özet3",
+            "newsTextAndEnts": {
+				"text": "The U.S. economy added many more jobs than expected last month, and there was an appetite for workers particularly in the service sector, which has been grappling with labor shortages.\n\nThe leisure and hospitality sector saw the most jobs growth, with 96,000 payrolls added in July, led by strong expansion in food and drinking places, according to the U.S. Bureau of Labor Statistics.\n\nRestaurants and airlines have been scrambling to repopulate their ranks ever since the economy started to reopen. Covid-triggered lockdowns in 2020 had led to massive layoffs and furloughs for cooks and waitstaff and other service staff.\n\nMeanwhile, employment in professional and business services continued to grow, with an increase of 89,000 in July. Within the industry, job growth was widespread in management of companies and enterprises, architectural and engineering services as well as scientific research and development.",
+				"ents": [{"start": 4, "end": 8, "label": "GPE"}, {"start": 52, "end": 62, "label": "DATE"}, {"start": 252, "end": 258, "label": "CARDINAL"}, {"start": 277, "end": 281, "label": "DATE"}, {"start": 349, "end": 384, "label": "ORG"}, {"start": 530, "end": 534, "label": "DATE"}, {"start": 725, "end": 731, "label": "CARDINAL"}, {"start": 735, "end": 739, "label": "DATE"}],
+			},
+            "newsLink": "Haber Linki3"
+        }
+    },
+    {
+        "tagText": "POSITIVE",
+        "newsHeading": "Başlık4",
+        "newsInfo": {
+            "summary": "Özet4",
+            "newsTextAndEnts": {
+				"text": "The U.S. economy added many more jobs than expected last month, and there was an appetite for workers particularly in the service sector, which has been grappling with labor shortages.\n\nThe leisure and hospitality sector saw the most jobs growth, with 96,000 payrolls added in July, led by strong expansion in food and drinking places, according to the U.S. Bureau of Labor Statistics.\n\nRestaurants and airlines have been scrambling to repopulate their ranks ever since the economy started to reopen. Covid-triggered lockdowns in 2020 had led to massive layoffs and furloughs for cooks and waitstaff and other service staff.\n\nMeanwhile, employment in professional and business services continued to grow, with an increase of 89,000 in July. Within the industry, job growth was widespread in management of companies and enterprises, architectural and engineering services as well as scientific research and development.",
+				"ents": [{"start": 4, "end": 8, "label": "GPE"}, {"start": 52, "end": 62, "label": "DATE"}, {"start": 252, "end": 258, "label": "CARDINAL"}, {"start": 277, "end": 281, "label": "DATE"}, {"start": 349, "end": 384, "label": "ORG"}, {"start": 530, "end": 534, "label": "DATE"}, {"start": 725, "end": 731, "label": "CARDINAL"}, {"start": 735, "end": 739, "label": "DATE"}],
+			},
+            "newsLink": "Haber Linki4"
+        }
+    }
+]

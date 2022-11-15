@@ -1,0 +1,30 @@
+var fs = require('fs');
+var http = require('http');
+var https = require('https');
+var privateKey  = fs.readFileSync('sslcert/server.key', 'utf8');
+var certificate = fs.readFileSync('sslcert/server.crt', 'utf8');
+
+var credentials = {key: privateKey, cert: certificate};
+
+const express = require("express");
+const app = express();
+const cors = require("cors");
+app.use(cors());
+import bodyParser from 'body-parser';
+import { getNewsList } from "./news";
+app.use(bodyParser.urlencoded({extended:true}));
+app.use(bodyParser.json())
+const newsList = getNewsList(); // assume for now this is your database
+
+// GET Call for all users
+app.get("/api", (req, res) => {
+  return res.status(200).send({
+    success: "true",
+    message: "news",
+    news: newsList,
+  });
+});
+
+app.listen(8000, () => {
+  console.log("server listening on port 8000!");
+});

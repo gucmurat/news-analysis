@@ -1,0 +1,3 @@
+@echo off
+start cmd /k "python execute.py & cd ../news-analysis-api & node updateData.mjs updateData"
+exit
