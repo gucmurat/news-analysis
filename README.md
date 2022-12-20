@@ -1,4 +1,6 @@
 <!-- omit in toc -->
+<a href="https://github.com/gucmurat/news-analysis/blob/main/News_Analysis_Report.pdf" target="_blank">Project Report</a>
+
 # Table of Contents
 - [Hakkında](#hakkında)
 - [Yükleme](#yükleme)
